@@ -12,3 +12,5 @@ a quantidade de caminho percorrido ao moverse, e a quantidade de horas ao dormir
 Crie uma classe Peixe e Pombo. De quem vamos herdar? Um peixe nada e um pombo voa então os métodos nadar e voar devem estar na classe abstrata Animal? Não. 
 Então criem uma classe abstrata AnimalMarinhoAB ,AnimalVoadorAB, AnimalTerrestreAB que implementa a classe abstrata AnimalAB para representar a classe abstrata para 
 animais marinhos e aéreos “que voam”.
+
+Obs.: Primeiro repositório criado utilizando IDE IntelliJ. Por esse motivo existem duas branchs: Main e Master. Buscando orientações para melhor atuações futuras.
